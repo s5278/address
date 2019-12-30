@@ -1,6 +1,6 @@
 # 地址发布页
 
-(1) https://s5278.weebly.com/
+(1) https://github.com/s5278/address
 
 (2) https://hackmd.io/@s5278/HkGlOgPkU
 
